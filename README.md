@@ -1,1 +1,2 @@
-# go-base-template
+# Go Base Template
+
